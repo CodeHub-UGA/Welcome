@@ -5,6 +5,8 @@ Welcome to CodeHub@UGA
   <img alt="logo" src="https://avatars3.githubusercontent.com/u/71467934?s=400&u=bc4f972ce4f3cbc6013adc0a66b8b1b522356ab2&v=4" />
 </p>
 
+UGA student? Want access to our resource drive? Sign up here: https://linktr.ee/codehub_uga
+
 Links to relevant CodeHub@UGA repositories:
 
 Languages: https://github.com/CodeHub-UGA/Languages <br>
